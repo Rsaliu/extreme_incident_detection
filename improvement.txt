@@ -1,0 +1,18 @@
+1. make decision based on 5 to 10 frames
+2. wait another 100ms
+3. make decision based on 5 to 10 frames
+1. wait another 100ms
+2. make decision based on 5 to 10 frames
+3. wait another 100ms
+4. make decision based on 5 to 10 frames
+
+
+
+
+
+Test.
+1. video feed
+2. array of still pictures
+3. voting system
+
+
